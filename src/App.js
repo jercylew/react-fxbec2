@@ -66,7 +66,6 @@ function Topics() {
           </Link>
         </li>
       </ul>
-      <button onClick={() => history.push('/') } >Go Home</button>
 
       {/* The Topics page has its own <Switch> with more routes
           that build on the /topics URL path. You can think of the
